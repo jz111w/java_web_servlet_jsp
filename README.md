@@ -27,6 +27,8 @@
 
 http://47.107.247.91:8080/web_estore/HomePage.html
 
+已停用
+
 测试账号：
 
 - 用户：
